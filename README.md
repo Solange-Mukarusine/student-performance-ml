@@ -46,20 +46,15 @@ Visualizations included:
 
 ## Project Structure
 # student-performance-ml/
-# │
 # ├── data/
 # │   └── student_performance.csv
-# │
 # ├── notebooks/
 # │   └── student_performance_model.ipynb
-# │
 # ├── models/
 # │   ├── random_forest_model.pkl
 # │   └── scaler.pkl
-# │
 # ├── docs/
 # │   └── Final_Project_Report_Professional.pdf
-# │
 # ├── app.py
 # ├── requirements.txt
 # └── README.md
