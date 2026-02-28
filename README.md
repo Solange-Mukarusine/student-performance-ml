@@ -9,12 +9,12 @@ The goal is to help institutions identify struggling students early and provide 
 
 ## Project Developers
 
-SOLANGE MUKARUSINE 
+## SOLANGE MUKARUSINE 
 
 Course: Artificial Intelligence  
 Project Type: Supervised Machine Learning  
 
-##Machine Learning Model
+## Machine Learning Model
 
 Algorithm Used:
 - Random Forest Classifier (Scikit-learn)
@@ -69,7 +69,7 @@ student-performance-ml/
 
 https://github.com/Solange-Mukarusine/student-performance-ml.git
 
-## cd student-performance-ml
+# cd student-performance-ml
 
 ### Install Dependencies
 
