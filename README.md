@@ -97,6 +97,6 @@ http://127.0.0.1:5000
 - Build full dashboard interface
 
 
-##License
+## License
 
 This project is for academic purposes.
