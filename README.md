@@ -67,7 +67,7 @@ student-performance-ml/
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/student-performance-ml.git
+https://github.com/Solange-Mukarusine/student-performance-ml.git
 cd student-performance-ml
 
 ### Install Dependencies
